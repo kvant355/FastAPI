@@ -1,0 +1,74 @@
+- book_id: 1
+  reader_id: 3
+  taken_at: 2025-01-09
+  returned_at: 2025-01-11
+
+- book_id: 2
+  reader_id: 5
+  taken_at: 2025-01-09
+  returned_at: 2025-01-12
+
+- book_id: 3
+  reader_id: 7
+  taken_at: 2025-01-09
+  returned_at:
+
+- book_id: 4
+  reader_id: 6
+  taken_at: 2025-01-09
+  returned_at: 2025-01-13
+
+- book_id: 5
+  reader_id: 3
+  taken_at: 2025-01-09
+  returned_at:
+
+- book_id: 6
+  reader_id: 6
+  taken_at: 2025-01-09
+  returned_at: 2025-01-17
+
+- book_id: 7
+  reader_id: 2
+  taken_at: 2025-01-09
+  returned_at: 2025-01-10
+
+- book_id: 7
+  reader_id: 4
+  taken_at: 2025-01-11
+  returned_at:
+
+- book_id: 8
+  reader_id: 4
+  taken_at: 2025-01-09
+  returned_at:
+
+- book_id: 9
+  reader_id: 7
+  taken_at: 2025-01-10
+  returned_at: 2025-01-11
+
+- book_id: 9
+  reader_id: 4
+  taken_at: 2025-01-09
+  returned_at: 2025-01-10
+
+- book_id: 9
+  reader_id: 5
+  taken_at: 2025-01-12
+  returned_at:
+
+- book_id: 10
+  reader_id: 3
+  taken_at: 2025-01-09
+  returned_at:
+
+- book_id: 11
+  reader_id: 3
+  taken_at: 2025-01-09
+  returned_at: 2025-01-10
+
+- book_id: 11
+  reader_id:
+  taken_at: 2025-01-12
+  returned_at:
